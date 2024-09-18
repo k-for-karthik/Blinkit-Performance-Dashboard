@@ -3,9 +3,9 @@
 
 #### Overall Performance
 
-**Total Sales:** The company has generated a total of ***$1.20 million in sales***, which is a significant achievement.
-**Average Sales:** The average sales per outlet are ***$141***, indicating a relatively strong performance across the network.
-**Outlet Establishment:** The number of outlets has steadily increased over time, suggesting a growth strategy focused on expansion.
+**Total Sales:** The company has generated a total of ***$1.20 million in sales***, which is a significant achievement.<br>
+**Average Sales:** The average sales per outlet are ***$141***, indicating a relatively strong performance across the network.<br>
+**Outlet Establishment:** The number of outlets has steadily increased over time, suggesting a growth strategy focused on expansion.<br>
      
 #### Product Performance
 

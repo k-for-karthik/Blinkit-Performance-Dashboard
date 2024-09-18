@@ -4,6 +4,11 @@
 
 ![Dashboard](blinkit.JPG)
 
+#### Introduction
+
+***This is a comprehensive Sales dashboard designed to provide insights into the performance of Blinkit's Sales. It offers a visual representation of key metrics and trends, enabling stakeholders to make data-driven decisions.***
+
+
 #### Overall Performance
 
 **Total Sales:** The company has generated a total of ***$1.20 million in sales***, which is a significant achievement.<br>

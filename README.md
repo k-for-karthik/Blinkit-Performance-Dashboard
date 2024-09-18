@@ -1,5 +1,6 @@
 ## Blinkit-Sales-Insights
 
+![Dashboard](blinkit.JPG)
 
 #### Overall Performance
 

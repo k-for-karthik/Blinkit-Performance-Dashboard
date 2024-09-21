@@ -3,7 +3,7 @@
 
 [Click here to view the interactive version of this dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmOTk1ODktOGM3Ny00NjU4LTk1YjItNzI0NzQ2YzRhMWFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br>
 
-![Dashboard](blinkit.JPG)
+![Dashboard](https://github.com/k-for-karthik/Blinkit-Performance-Dashboard/blob/44808ddd4e0f4894c2087bdfa43ae14d12aed96b/blinkit.JPG)
 
 #### Introduction
 

@@ -1,6 +1,7 @@
-# Blinkit-Sales-Insights
+# Blinkit Performance
 
 
+[Click here to view the interactive version of this dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmOTk1ODktOGM3Ny00NjU4LTk1YjItNzI0NzQ2YzRhMWFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br>
 
 ![Dashboard](blinkit.JPG)
 
